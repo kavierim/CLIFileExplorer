@@ -1,3 +1,4 @@
+#!python
 """
 A curses-based file explorer that displays directories and files in a tree structure.
 Allows navigation and expansion/collapse of directories.
